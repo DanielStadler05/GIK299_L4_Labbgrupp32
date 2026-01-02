@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\danie\\Documents\\GitHub\\Labb4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B23FB583-A133-8A4F-79FF-09AFCC2AE0ED}|Labb4\\Labb4.csproj|c:\\users\\danie\\documents\\github\\labb4\\labb4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B23FB583-A133-8A4F-79FF-09AFCC2AE0ED}|Labb4\\Labb4.csproj|solutionrelative:labb4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\danie\\Documents\\GitHub\\Labb4\\Labb4\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Labb4\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\danie\\Documents\\GitHub\\Labb4\\Labb4\\Labb4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Labb4\\Labb4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +30,20 @@
               "RelativeToolTip": "Labb4\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-02T04:24:25.644Z",
+              "WhenOpened": "2026-01-02T04:41:28.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Labb4.csproj",
+              "DocumentMoniker": "C:\\Users\\danie\\Documents\\GitHub\\Labb4\\Labb4\\Labb4.csproj",
+              "RelativeDocumentMoniker": "Labb4\\Labb4.csproj",
+              "ToolTip": "C:\\Users\\danie\\Documents\\GitHub\\Labb4\\Labb4\\Labb4.csproj",
+              "RelativeToolTip": "Labb4\\Labb4.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-02T04:41:12.124Z",
               "EditorCaption": ""
             }
           ]
